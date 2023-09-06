@@ -1,8 +1,8 @@
 <!---
-<iframe src="https://giphy.com/embed/D9kRCocIGZ9f2" width="4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZVgifs/sword-D9kRCocIGZ9f2">via GIPHY</a></p>
+![giphy](https://github.com/Resonanc3/Resonanc3/assets/79844632/3253ab89-0924-4405-9a85-4d5b8eef5dd0)
 ---->
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/D9kRCocIGZ9f2" width="100"/>
+  <img src="https://github.com/Resonanc3/Resonanc3/assets/79844632/3253ab89-0924-4405-9a85-4d5b8eef5dd0" width="100"/>
 </div>
 
