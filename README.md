@@ -1,3 +1,11 @@
+<!--- Medias/Assets
+![giphy](https://github.com/Resonanc3/Resonanc3/assets/79844632/4c30320e-dfd1-400c-8cbc-e3136c7aefd1)
+--->
+
+<div id="header" align="center">
+  <img src="https://github.com/Resonanc3/Resonanc3/assets/79844632/4c30320e-dfd1-400c-8cbc-e3136c7aefd1" width="100"/>
+</div>
+
 <h1 align="center">Hey, I'm Resonanc3</h1>
 <h3 align="center">I am a Computer Engineering Student who loves hacking. I don't do well in code but I do my best to excel and explore any possibilities.</h3>
 
