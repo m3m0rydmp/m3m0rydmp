@@ -9,9 +9,7 @@
 <h1 align="center">Hey, I'm Resonanc3</h1>
 <h3 align="center">I am a Computer Engineering Student who loves hacking. I don't do well in code but I do my best to excel and explore any possibilities.</h3>
 
-<div align=="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=resonanc3&label=Profile%20views&color=0e75b6&style=flat" alt="resonanc3" /> </p>
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=resonanc3&label=Profile%20views&color=0e75b6&style=flat" alt="resonanc3" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
