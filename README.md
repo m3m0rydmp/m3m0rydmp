@@ -1,1 +1,1 @@
-![giphy](https://github.com/Resonanc3/Resonanc3/assets/79844632/b4bd5d88-7181-45e7-b3b3-2cd5c64a75b6)
+![Untitled_Project_V3](https://github.com/Resonanc3/Resonanc3/assets/79844632/330abed4-333a-4290-bdec-33458120a6a3)
