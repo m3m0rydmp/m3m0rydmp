@@ -33,7 +33,7 @@
   - <img src="https://github.com/Resonanc3/Resonanc3/assets/79844632/cae707fb-b514-407a-92c9-42f6d30a7f20" width="15"> Steam: <a href="https://steamcommunity.com/profiles/76561198277881162/">Resonanc3</a>
 </p>
 
-<h3 align="left">Languages/Frameworks Learned & Used:</h3>
+<h3 align="left">Languages/Frameworks/Tools/OS Learned & Used:</h3>
 <p align="left">
   <img src="https://github.com/Resonanc3/Resonanc3/assets/79844632/31de9da1-7538-4c10-beeb-28151285b623" width="35">
   <img src="https://github.com/Resonanc3/Resonanc3/assets/79844632/54914fdc-0ce9-4cab-b733-df3bc08d214a" width="35">
