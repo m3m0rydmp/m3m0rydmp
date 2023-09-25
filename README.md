@@ -8,6 +8,7 @@
 ![linux 220x256](https://github.com/Resonanc3/Resonanc3/assets/79844632/31de9da1-7538-4c10-beeb-28151285b623)
 ![flutter-icon-2048x2048-ufx4idi8](https://github.com/Resonanc3/Resonanc3/assets/79844632/54914fdc-0ce9-4cab-b733-df3bc08d214a)
 ![Git-Icon-1788C](https://github.com/Resonanc3/Resonanc3/assets/79844632/8b9cb321-f708-490d-854c-52b93ea323b3)
+![214250](https://github.com/Resonanc3/Resonanc3/assets/79844632/601abac5-a7b7-4d64-b680-581168281570)
 ![png-transparent-arduino-macos-bigsur-icon-thumbnail](https://github.com/Resonanc3/Resonanc3/assets/79844632/4a4cfcc1-2ad7-45ab-bed9-f9ee6aa510c3)
 ![926px-C_Programming_Language svg](https://github.com/Resonanc3/Resonanc3/assets/79844632/70062bf1-3348-438c-88b1-9bc8b54d265d)
 ![5968282](https://github.com/Resonanc3/Resonanc3/assets/79844632/e86f31f1-a54f-4b6a-97fd-2d8fb11e4d2c)
@@ -15,7 +16,7 @@
 --->
 
 <div id="header" align="center">
-  <img src="https://github.com/Resonanc3/Resonanc3/assets/79844632/4c30320e-dfd1-400c-8cbc-e3136c7aefd1" width="100"/>
+  <img src="https://github.com/Resonanc3/Resonanc3/assets/79844632/601abac5-a7b7-4d64-b680-581168281570" width="100"/>
 </div>
 
 <h1 align="center">Hey, I'm Resonanc3</h1>
