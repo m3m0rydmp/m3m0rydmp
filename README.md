@@ -19,7 +19,7 @@
   <img src="https://github.com/Resonanc3/Resonanc3/assets/79844632/601abac5-a7b7-4d64-b680-581168281570" width="100"/>
 </div>
 
-<h1 align="center">Hey, I'm Resonanc3</h1>
+<h1 align="center">Hey, I'm m3m0rydmp</h1>
 <h3 align="center">I am a Computer Engineering Student who loves hacking. I don't do well in code but I do my best to excel and explore any possibilities.</h3>
 <h4 align="center"><i>Keep Moving Forward</i></h4>
 <p align="center">P.S. Shoutout to my GF who's been motivating me with all the things I do ❤️.</p>
