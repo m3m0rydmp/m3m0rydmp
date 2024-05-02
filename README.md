@@ -30,7 +30,7 @@
 <p align="left">
   - <img src="https://github.com/Resonanc3/Resonanc3/assets/79844632/3cf935fb-4c3e-434a-a051-4ba74d76b61b" width="15"> Hack The Box: <a href="https://app.hackthebox.com/profile/1006224">Resonanc3</a><br>
   - <img src="https://github.com/Resonanc3/Resonanc3/assets/79844632/16f041db-a8b7-4905-84b7-f791fa4c5ac6" width="15"> Discord: <a href="https://discord.com/users/745265976488099961">Ririka</a><br>
-  - <img src="https://github.com/Resonanc3/Resonanc3/assets/79844632/072cb206-a121-48a5-87fb-1cb939b70616" width="15"> CTFtime: <a href="https://ctftime.org/user/171224">m3m0rydm-</a><br>
+  - <img src="https://github.com/Resonanc3/Resonanc3/assets/79844632/072cb206-a121-48a5-87fb-1cb939b70616" width="15"> CTFtime: <a href="https://ctftime.org/user/171224">m3m0rydmp</a><br>
   - <img src="https://github.com/Resonanc3/Resonanc3/assets/79844632/cae707fb-b514-407a-92c9-42f6d30a7f20" width="15"> Steam: <a href="https://steamcommunity.com/profiles/76561198277881162/">m3m0rydmp</a>
 </p>
 
