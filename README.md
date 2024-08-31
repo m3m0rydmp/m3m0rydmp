@@ -24,7 +24,7 @@
 <h4 align="center"><i>Keep Moving Forward</i></h4>
 <p align="center">P.S. Shoutout to my GF who's been motivating me with all the things I do ❤️.</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=resonanc3&label=Profile%20views&color=0e75b6&style=flat" alt="resonanc3" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=resonanc3&label=Profile%20views&color=0e75b6&style=flat" alt="m3m0rydmp" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
