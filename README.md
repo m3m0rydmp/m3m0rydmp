@@ -46,10 +46,10 @@
 </p>
 
 <h3 align="left">Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=resonanc3&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="resonanc3" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m3m0rydmp&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="m3m0rydmp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=resonanc3&theme=tokyonight&show_icons=true" alt="resonanc3" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m3m0rydmp&theme=tokyonight&show_icons=true" alt="m3m0rydmp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=resonanc3&" alt="resonanc3" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m3m0rydmp&" alt="m3m0rydmp" /></p>
 
 
