@@ -28,8 +28,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/BurpSuite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wazuh-005A9C?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
