@@ -14,7 +14,7 @@
 <div align="center">
   <h2>🔗 Connect with Me</h2>
   
-  <a href="https://app.hackthebox.com/profile/1006224"><img src="https://img.shields.io/badge/HackTheBox-111922?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
+  <a href="https://app.hackthebox.com/profile/m3m0rydmp"><img src="https://img.shields.io/badge/HackTheBox-111922?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
   <a href="https://tryhackme.com/p/m3m0rydmp"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
   <a href="https://hackerone.com/memorydmp"><img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
   <a href="https://bugcrowd.com/m3m0rydmp"><img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
@@ -50,7 +50,7 @@
     <li>🎮 HTB Cyber Apocalypse Tales from Eldoria — 2025</li>
     <li>🏰 Hack The Kingdom (GuideM) — 2024</li>
     <li>🌊 Urmia CTF — 2024</li>
-    <li>🦅 PatriotCTF — 2024</li>
+    <li>🇺🇸 PatriotCTF — 2024</li>
   </ul>
 </div>
 
@@ -63,6 +63,21 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3m0rydmp&layout=compact&theme=radical" width="40%"/>
+</div>
+
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=m3m0rydmp&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%"/>
+</div>
+
+<div align="center">
+  <h2>📈 Contribution Graph</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m3m0rydmp&theme=radical&hide_border=true" width="100%"/>
+</div>
+
+<div align="center">
+  <h2>🎯 Current Focus</h2>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=m3m0rydmp&repo=your-repo-name&theme=radical" />
 </div>
 
 <div align="center">
