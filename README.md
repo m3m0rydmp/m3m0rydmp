@@ -50,7 +50,7 @@
     <li>🎮 HTB Cyber Apocalypse Tales from Eldoria — 2025</li>
     <li>🏰 Hack The Kingdom (GuideM) — 2024</li>
     <li>🌊 Urmia CTF — 2024</li>
-    <li>🇺🇸 PatriotCTF — 2024</li>
+    <li>🦅 PatriotCTF — 2024</li>
   </ul>
 </div>
 
