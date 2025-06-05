@@ -77,7 +77,7 @@
 
 <div align="center">
   <h2>🎯 Current Focus</h2>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=m3m0rydmp&repo=your-repo-name&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=m3m0rydmp&repo=m3m0rydmp-website&theme=radical" />
 </div>
 
 <div align="center">
