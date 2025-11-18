@@ -75,7 +75,7 @@
   <h2>CTF Team</h2>
   
   <p>
-    <strong>Team Name:</strong> ResetSec<br>
+    <strong>Team Name:</strong> <a href="https://resetsec.github.io/"> ResetSec | <a href="https://pwndesal.xyz">Pwndesal</a><br>
     <a href="https://ctftime.org/team/266022">(View on CTFTime)</a>
   </p>
 </div>
