@@ -84,6 +84,8 @@
   <h2>Recent CTF Participations</h2>
   
   <ul style="list-style-type: none; padding: 0;">
+    <li>Kaspersky{CTF} - 2025</li>
+    <li>Industrial Intrusion - 2025</li>
     <li>HTB Cyber Apocalypse Tales from Eldoria — 2025</li>
     <li>Hack The Kingdom (GuideM) — 2024</li>
     <li>Urmia CTF — 2024</li>
