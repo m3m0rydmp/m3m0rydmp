@@ -2,14 +2,18 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNqZnB5MnBzcjNlejd0aHV5azMzcTdhOWpqaXQwM2poZGt1b3RsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JYZWs0UkzK2WKBoCUM/giphy.gif" width="500" alt="Cyberpunk GIF"/>
 </div>
 
-<div align="center">
-  <h1>Hi there, I'm m3m0rydmp</h1>
-  
-  <p>
-    <strong>Noob Pentester | SOC L1 Analyst</strong><br>
-    <strong>Constantly learning | CTF Enthusiast</strong>
-  </p>
-</div>
+<h1 align="center">
+  <sub>
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30">
+  </sub>
+  Hi, I'm m3m0rydmp
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Penetration%20Testing-9FEF00?style=flat-square&labelColor=111922" />
+  <img src="https://img.shields.io/badge/Other Role-SOC%20L1%20Analyst-00C7B7?style=flat-square&labelColor=111922" />
+  <img src="https://img.shields.io/badge/Status-Learning-FF6B6B?style=flat-square&labelColor=111922" />
+</p>
 
 <div align="center">
   <h2>Connect with Me</h2>
@@ -22,44 +26,7 @@
   <a href="https://linkedin.com/in/robsacote"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-<div align="center">
-  <h2>Certifications & Learning Path</h2>
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Certified-CRTA-9FEF00?style=for-the-badge&logo=security&logoColor=black" />
-        <br><small>CyberWarfareLab</small>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Certified-eJPT-4B275F?style=for-the-badge&logo=ine&logoColor=white" />
-        <br><small>eLearnSecurity</small>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Certified-PT1-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-        <br><small>TryHackMe</small>
-      </td>
-    </tr>
-  </table>
-  
-  <h3>Target Certifications</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Target-CPTS-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-        <br><small>HackTheBox</small>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Target-PNPT-FF6B6B?style=for-the-badge&logo=security&logoColor=white" />
-        <br><small>TCM Security</small>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Target-OSCP-FF0000?style=for-the-badge&logo=offensive-security&logoColor=white" />
-        <br><small>Offensive Security</small>
-      </td>
-    </tr>
-  </table>
-</div>
+<br>
 
 <div align="center">
   <h2>Focus Areas</h2>
@@ -105,29 +72,29 @@
 <div align="center">
   <h2>GitHub Stats</h2>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=m3m0rydmp&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m3m0rydmp&theme=radical" width="48%" />
+  ![Github Stats](https://greptile-stats.vercel.app/api/widget/m3m0rydmp/stats)
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3m0rydmp&layout=compact&theme=radical" width="40%"/>
-</div>
-
-<div align="center">
-  <h2>GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=m3m0rydmp&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%"/>
-</div>
-
-<div align="center">
-  <h2>Website</h2>
+  <h2>GitHub Contributions</h2>
   
-  <p>
-    <a href="https://m3m0rydmp.github.io"><img src="https://img.shields.io/badge/Visit_My_Website-m3m0rydmp.github.io-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  </p>
+  ![Github Contributions](https://greptile-stats.vercel.app/api/widget/m3m0rydmp/contributions)
 </div>
+
+<br>
+
+<div align="center">
+  <h2>Portfolio Website</h2>
+  
+  <a href="https://m3m0rydmp.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Website-m3m0rydmp.github.io-9FEF00?style=for-the-badge&logoColor=white&labelColor=111922" alt="Visit Website"/>
+  </a>
+</div>
+
+<br>
 
 <div align="center">
   <h2>Profile Views</h2>
   
-  <img src="https://komarev.com/ghpvc/?username=m3m0rydmp&style=flat-square&color=blue" alt="profile views"/>
+  ![Profile views](https://counter.kuber.studio/m3m0rydmp/hacker/count.svg)
 </div>
