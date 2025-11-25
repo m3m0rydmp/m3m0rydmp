@@ -87,7 +87,7 @@
   <h2>Portfolio Website</h2>
   
   <a href="https://m3m0rydmp.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Website-m3m0rydmp.github.io-9FEF00?style=for-the-badge&logoColor=white&labelColor=111922" alt="Visit Website"/>
+    <img src="https://img.shields.io/badge/🌐_My_Writeup_Website-m3m0rydmp.github.io-9FEF00?style=for-the-badge&logoColor=white&labelColor=111922" alt="Writeup Website"/>
   </a>
 </div>
 
