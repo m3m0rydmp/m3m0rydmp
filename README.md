@@ -15,22 +15,16 @@
   <img src="https://img.shields.io/badge/Status-Learning-FF6B6B?style=flat-square&labelColor=111922" />
 </p>
 
-<div align="center">
-  <h2>Connect with Me</h2>
-  
+<p align="center">
+  <a href="https://linkedin.com/in/robsacote"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://app.hackthebox.com/profile/m3m0rydmp"><img src="https://img.shields.io/badge/HackTheBox-111922?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
   <a href="https://tryhackme.com/p/m3m0rydmp"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
-  <a href="https://hackerone.com/memorydmp"><img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
-  <a href="https://bugcrowd.com/m3m0rydmp"><img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
-  <a href="https://ctftime.org/team/266022"><img src="https://img.shields.io/badge/CTFTime-222?style=for-the-badge&logo=ctftime&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/robsacote"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
+</p>
 
-<br>
+---
 
+### 🛡️ Cyber Security Focus
 <div align="center">
-  <h2>Focus Areas</h2>
-  
   <p>
     <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/Web_Application_Security-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -38,54 +32,68 @@
   </p>
 </div>
 
+---
+
+### 📊 GitHub Activity
 <div align="center">
-  <h2>CTF Team</h2>
-  
-  <p>
-    <strong>Team Name:</strong> <a href="https://resetsec.github.io/"> ResetSec | <a href="https://pwndesal.xyz">Pwndesal</a><br>
-    <a href="https://ctftime.org/team/266022">(View on CTFTime)</a>
-  </p>
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=m3m0rydmp&show_icons=true&theme=radical&bg_color=0d1117&title_color=9fef00&text_color=ffffff&icon_color=9fef00&border_color=9fef00" alt="m3m0rydmp's GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=m3m0rydmp&theme=radical&background=0d1117&ring=9fef00&fire=9fef00&currStreakNum=ffffff&sideLabels=ffffff&stroke=9fef00&dates=ffffff" alt="m3m0rydmp's Streak Stats" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3m0rydmp&layout=compact&theme=radical&bg_color=0d1117&title_color=9fef00&text_color=ffffff&icon_color=9fef00&border_color=9fef00" alt="Top Langs" />
 </div>
 
+---
+
+### 🚩 CTF Experience
 <div align="center">
-  <h2>Recent CTF Participations</h2>
-  
-  <ul style="list-style-type: none; padding: 0;">
-    <li>Kaspersky{CTF} - 2025</li>
-    <li>Industrial Intrusion - 2025</li>
-    <li>HTB Cyber Apocalypse Tales from Eldoria — 2025</li>
-    <li>Hack The Kingdom (GuideM) — 2024</li>
-    <li>Urmia CTF — 2024</li>
-    <li>PatriotCTF — 2024</li>
-  </ul>
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <h4>Current Team</h4>
+        <p>
+          <strong><a href="https://resetsec.github.io/">ResetSec</a></strong> | <strong><a href="https://pwndesal.xyz">Pwndesal</a></strong><br>
+          <a href="https://ctftime.org/team/266022"><img src="https://img.shields.io/badge/CTFTime-Team_Profile-222?style=flat-square&logo=ctftime&logoColor=white"/></a>
+        </p>
+      </td>
+      <td width="50%">
+        <h4>Recent Participations</h4>
+        <ul align="left">
+          <li>Kaspersky{CTF} - 2025</li>
+          <li>Industrial Intrusion - 2025</li>
+          <li>HTB Cyber Apocalypse - 2025</li>
+          <li>Hack The Kingdom (GuideM) — 2024</li>
+          <li>Urmia CTF — 2024</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
+---
+
+### 🚀 Active Platforms
 <div align="center">
-  <h2>Active Practice Platforms</h2>
-  
   <img src="https://img.shields.io/badge/HackTheBox-Rank_Hacker-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" />
   <img src="https://img.shields.io/badge/TryHackMe-Active_Learner-212C42?style=flat-square&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/PortSwigger_Academy-In_Progress-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/VulnLab-Active-DC143C?style=flat-square&logo=security&logoColor=white" />
 </div>
 
-<div align="center">
-  <h2>GitHub Stats</h2>
-  
-  ![Github Stats](https://greptile-stats.vercel.app/api/widget/m3m0rydmp/stats)
-</div>
+---
 
+### 🔗 Connect & Portfolio
 <div align="center">
-  <h2>GitHub Contributions</h2>
-  
-  ![Github Contributions](https://greptile-stats.vercel.app/api/widget/m3m0rydmp/contributions)
-</div>
-
-<br>
-
-<div align="center">
-  <h2>Portfolio Website</h2>
-  
+  <a href="https://hackerone.com/memorydmp"><img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
+  <a href="https://bugcrowd.com/m3m0rydmp"><img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
+  <br><br>
   <a href="https://m3m0rydmp.github.io" target="_blank">
     <img src="https://img.shields.io/badge/🌐_My_Writeup_Website-m3m0rydmp.github.io-9FEF00?style=for-the-badge&logoColor=white&labelColor=111922" alt="Writeup Website"/>
   </a>
@@ -94,7 +102,5 @@
 <br>
 
 <div align="center">
-  <h2>Profile Views</h2>
-  
-  ![Profile views](https://counter.kuber.studio/m3m0rydmp/hacker/count.svg)
+  <img src="https://counter.kuber.studio/m3m0rydmp/hacker/count.svg" alt="Profile views"/>
 </div>
