@@ -6,7 +6,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=9FEF00&center=true&vCenter=true&width=600&lines=Penetration+Tester;SOC+L1+Analyst;CTF+Player+%40+ResetSec" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=9FEF00&center=true&vCenter=true&width=600&lines=Security+Consultant;Learning+Red+Teaming;CTF+Player+%40+ResetSec" alt="Typing SVG" />
 </div>
 
 <p align="center">
