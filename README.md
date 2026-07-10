@@ -49,18 +49,10 @@
 
 ### 📊 GitHub Activity
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=m3m0rydmp&show_icons=true&theme=radical&bg_color=0d1117&title_color=9fef00&text_color=ffffff&icon_color=9fef00&border_color=9fef00" alt="m3m0rydmp's GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=m3m0rydmp&theme=radical&background=0d1117&ring=9fef00&fire=9fef00&currStreakNum=ffffff&sideLabels=ffffff&stroke=9fef00&dates=ffffff" alt="m3m0rydmp's Streak Stats" />
-      </td>
-    </tr>
-  </table>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3m0rydmp&layout=compact&theme=radical&bg_color=0d1117&title_color=9fef00&text_color=ffffff&icon_color=9fef00&border_color=9fef00" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m3m0rydmp&theme=radical&background=0d1117&ring=9fef00&fire=9fef00&currStreakNum=ffffff&sideLabels=ffffff&stroke=9fef00&dates=ffffff" alt="m3m0rydmp's Streak Stats" />
+  <br><br>
+  <img src="https://img.shields.io/github/followers/m3m0rydmp?style=for-the-badge&logo=github&logoColor=9FEF00&label=Followers&color=0D1117" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fm3m0rydmp&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&logoColor=9FEF00&color=0D1117" />
 </div>
 
 <div align="center">
